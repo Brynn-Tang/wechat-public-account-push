@@ -9,7 +9,7 @@ export const config = {
   // 公众号APP_SECRET 
    APP_SECRET: "3d8f6e404328839fd1de5d94faaaea12",
   
-  TEMPLATE_ID: "1xu_zKH2P89ZBE82gVjMLys_9dYfEAGCh-Dhn3ZXqJA"
+  TEMPLATE_ID: "1xu_zKH2P89ZBE82gVjMLys_9dYfEAGCh-Dhn3ZXqJA",
   
   USERS: ["oIgKa6BZNNpDczky9E107O_kY6NU"],
   
@@ -23,7 +23,7 @@ export const config = {
        // 你想对他发送的模板消息的模板ID
        useTemplateId: "1xu_zKH2P89ZBE82gVjMLys_9dYfEAGCh-Dhn3ZXqJA",
        // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-       openUrl: "https://wangxinleo.cn"
+      // openUrl: "https://wangxinleo.cn"
       }, 
     ]*/
    
@@ -95,7 +95,7 @@ export const config = {
    */
   FESTIVALS_LIMIT: 0,
     
-  LOVE_DATE: "2022-02-10"
+  LOVE_DATE: "2022-02-10",
 
   /** 日期相关 */
 
