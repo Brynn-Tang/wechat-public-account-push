@@ -11,7 +11,7 @@ export const config = {
   
   TEMPLATE_ID: "1xu_zKH2P89ZBE82gVjMLys_9dYfEAGCh-Dhn3ZXqJA"
   
-  USERS: ["oIgKa6BZNNpDczky9E107O_kY6NU"]
+  USERS: ["oIgKa6BZNNpDczky9E107O_kY6NU"],
   
  /*  // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
     [
@@ -95,7 +95,7 @@ export const config = {
    */
   FESTIVALS_LIMIT: 0,
     
-   LOVE_DATE: "2022-02-10"
+  LOVE_DATE: "2022-02-10"
 
   /** 日期相关 */
 
